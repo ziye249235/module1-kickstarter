@@ -11,3 +11,6 @@ This shows that failed campaigns have higher pledge goals that succesful ones an
 This shows that musical Kickstarters in Great Britain have the tendency of having too high of a pledge goal compared to the amount pledged.
 
 My main recommendation to Louise is therefore to not lower the ledge goal as it increases the chances of the pledge being successful. 
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
