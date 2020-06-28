@@ -4,6 +4,6 @@ Analysis was performed on close to 4000 Kickstarter data with tools such as the 
 
 * ![Descriptive statistics of Kickstarter plays in the U.S.](C:\Users\zzyzz\Desktop\school 2020\US plays descriptive statistics.png)---This shows that failed campaigns have higher pledge goals that succesful ones and receive less pedges
 
-* ![Box and Whiskers chart of Kickstarter musicals in Great Britain](module1-kickstarter/box and whiskers.PNG)---This shows that musical Kickstarters in Great Britain have the tendency of having too high of a pledge goal compared to the amount pledged.
+* [Box and Whiskers chart of Kickstarter musicals in Great Britain](module1-kickstarter/box and whiskers.PNG)---This shows that musical Kickstarters in Great Britain have the tendency of having too high of a pledge goal compared to the amount pledged.
 
 My main recommendation to Louise is therefore to not lower the ledge goal as it increases the chances of the pledge being successful. 
